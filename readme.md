@@ -1,4 +1,4 @@
-Progetto
+SmartBike
 ========
 
-[Project description goes here]
+An IoT app developed with Zerynth.
